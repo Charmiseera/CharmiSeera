@@ -3,10 +3,10 @@
 
 Email Me 👉 ✉️ **charmiseera07@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** SafeCity: A Public Safety Reporting & Alert System – A full-stack web app that enables users to report incidents and get real-time safety alerts.* 
-- 🌱 **I’m currently learning:** Backend development with Node.js, Express, MongoDB, and stateful authentication using JWT.* 
-- 👯 **I’m looking to collaborate on:** Innovative full-stack web apps, especially projects that use tech to solve real-world problems or improve user experiences.
-- 🤔 **I’m looking for help with:** Building scalable backend systems, implementing advanced authentication, and deploying full-stack apps efficiently.
+- 🔭 **I’m currently working on:** SafeCity – a full-stack app for reporting incidents and real-time safety alerts.* 
+- 🌱 **I’m currently learning:** Node.js, Express, MongoDB, and JWT authentication.* 
+- 👯 **I’m looking to collaborate on:** Full-stack projects solving real-world problems..
+- 🤔 **I’m looking for help with:** Scalable backends, auth systems, and smooth deployment.
 - 📫 **How to reach me:** charmiseera07@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=charmiseera&label=Profile%20views&color=0e75b6&style=flat" alt="charmiseera" /> </p>
