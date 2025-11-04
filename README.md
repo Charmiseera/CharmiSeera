@@ -3,7 +3,6 @@
 
 Email Me 👉 ✉️ **charmiseera07@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** SafeCity – a full-stack app for reporting incidents and real-time safety alerts.* 
 - 🌱 **I’m currently learning:** Node.js, Express, MongoDB, and JWT authentication.* 
 - 👯 **I’m looking to collaborate on:** Full-stack projects solving real-world problems..
 - 🤔 **I’m looking for help with:** Scalable backends, auth systems, and smooth deployment.
