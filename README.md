@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I'm Charmi 👋  <br>A Computer Science student passionate about building real-world tech solutions.</p>
+<p align="left"><br>❤️A Computer Science student passionate about building real-world tech solutions.</p>
 
 
 <p align="left">✨ I love building projects, participating in hackathons, and solving real-world problems  <br>🤝 Enjoy collaborating, networking, and learning from like-minded people  <br>📚 Exploring Full-Stack Development, specializing in Big Data Analytics  <br>🤖 Interested in Agentic AI & Generative AI  <br>🎯 Preparing for SDE opportunities at top tech companies  <br>⚡ Fun fact: I can turn ideas into working prototypes faster than I expect 😄</p>
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">💻Tech Stach</h2>
+<h2 align="left">💻Tech Stack</h2>
 
 ###
 
