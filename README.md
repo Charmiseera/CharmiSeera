@@ -23,6 +23,8 @@
 
 ###
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -65,6 +67,8 @@
 
 ###
 
+###
+
 <div align="left">
 </div>
 
@@ -81,15 +85,23 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
+
+###
+
+
+<h2 align="left">Github Stats & Activity</h2>
+
 ###
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Charmiseera&theme=dracula" height="150"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Charmiseera&layout=compact&theme=dracula" height="150"/>
   <img src="https://streak-stats.demolab.com?user=Charmiseera&theme=dracula" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charmiseera&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 </p>
+
+
+###
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Charmiseera&theme=github_dark" />
@@ -101,6 +113,10 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
+###
+
+<h2 align="left">Profile Visitors</h2>
 
 ###
 
