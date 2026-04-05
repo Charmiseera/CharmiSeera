@@ -1,5 +1,9 @@
 <h1 align="left">💫 About Me:</h1>
 
+<p align="center">
+  <img src="./I am CharmI.png" alt="Animated GitHub Banner" width="100%">
+</p>
+
 ###
 
 <p align="left">Hi, I'm Charmi 👋  <br>A Computer Science student passionate about building real-world tech solutions.</p>
